@@ -1,10 +1,9 @@
-# phoneploits
+# Androsploits
 
-Update :
 
-Penambahan fungsi lacak ip, dan sadap kamera
 
-tools sadap handphone v.1.3
+
+tools sadap Android v.1.2
 
 penginstalan
 
@@ -16,11 +15,11 @@ $ pkg install python
 
 $ pkg install python2
 
-$ git clone https://github.com/sixtysix-Team/phoneploits
+$ git clone https://github.com/cybertc3/Androitsploit.git
 
-$ cd phoneploits
+$ cd Androitsloits
 
-$ sh phoneploits.sh
+$ sh Androsploit.sh
 
 Gunakan serveo.net untuk port
 
